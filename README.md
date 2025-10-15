@@ -61,14 +61,15 @@ Challenges addressed:
 
 ## **How to Use**
 
-1. Upload cleaned dataset to the model directories.
-2. Run preprocessing and training scripts.
-3. Launch UI:
+1. pip install -r requirements.txt
+2. Upload cleaned dataset to the model directories.
+3. Run preprocessing and training scripts.
+4. Launch UI:
 
    ```bash
    streamlit run app.py
    ```
-4. Input a **diary number** to get the predicted judgment category.
+5. Input a **diary number** to get the predicted judgment category.
 
 ---
 
